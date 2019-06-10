@@ -6,7 +6,7 @@ Les fonctions permettent, notemment, d'améliorer la lisibilité du code et évi
 
 La portion de code ci-dessous défini une fonction nommée `ma_fonction` :
 ```C
-void ma_function() {
+void ma_function(int a) {
 	...
 }
 ```
