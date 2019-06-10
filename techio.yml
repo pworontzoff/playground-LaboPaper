@@ -4,6 +4,8 @@ plan:
   statement: markdowns/welcome.md
 - title: Repeat
   statement: markdowns/repeat.md
+- title: Exercice 1
+  statement: markdowns/ex1.md
 projects:
   paper:
     root: /sample_paper

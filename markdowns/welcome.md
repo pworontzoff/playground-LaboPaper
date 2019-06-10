@@ -1,6 +1,15 @@
 # Laboratoire Paper
 
-NOTE D'INTRODUCTION AUX LABOS
+Ce laboratoire comprend une série d’exercices numérotés. La difficulté des exercices est croissante, c’est pourquoi il s’agit de les réaliser dans l’ordre indiqué. Les exercices portent sur du coloriage de case dans une grille (cf. Figure 1 - Résultat de l'exécution à obtenir pour l'exercice 1).
+Les exercices consistent à
+- Écrire du code C de manière à reproduire le motif de l’énoncé de l’exercice
+- Répondre à des questions sur la manière avec laquelle vous avez écrit votre code et ce pour vous amener à réfléchir dessus.
+
+Voici également quelques questions générales auxquelles il vous est demandé de répondre si la grille devient rouge après exécution de votre programme. Le point important ici est que vous soyez capable de faire le lien entre une ligne d’instruction et l’effet qu’elle peut avoir à l’exécution. Parfois, l’effet observé n’est pas celui que l’on souhaitait et il s’agit alors de modifier (corriger va-t-on même dire) le ou les instructions qui sont en jeu dans l’effet non désiré.
+- Préciser en quelques phrases ce qui a pu provoquer cet affichage?
+- Indiquer l’instruction (la ligne) qui a provoqué l’erreur ?
+
+Pour chaque exercice, il peut être nécessaire de se positionner avant de colorier. A l’initialisation, on se trouve sur la case `1,1`. Au terme de chaque exécution indiquer les coordonnées de la case courante.
 
 ## Manipuler les papers
 
