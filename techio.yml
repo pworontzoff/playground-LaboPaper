@@ -34,7 +34,7 @@ projects:
       name: techio/cmake-gcc-runner
       version: latest
   function:
-    root: /sample_functio
+    root: /sample_function
     runner:
       name: techio/cmake-gcc-runner
       version: latest
