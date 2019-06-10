@@ -4,6 +4,8 @@
 
 ![motif](img/ex1.JPG)
 
+@[Exercice 1]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "exercices"})
+
 ### Questions
 
 Répondre aux questions

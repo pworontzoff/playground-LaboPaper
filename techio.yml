@@ -2,10 +2,10 @@ title: Demo Paper
 plan:
 - title: Paper
   statement: markdowns/welcome.md
-- title: Repeat
-  statement: markdowns/repeat.md
 - title: Exercice 1
   statement: markdowns/ex1.md
+- title: Repeat
+  statement: markdowns/repeat.md
 projects:
   paper:
     root: /sample_paper
@@ -14,6 +14,11 @@ projects:
       version: latest
   repeat:
     root: /sample_repeat
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  exercices:
+    root: /exercices
     runner:
       name: techio/cmake-gcc-runner
       version: latest
