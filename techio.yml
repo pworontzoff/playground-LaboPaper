@@ -22,6 +22,18 @@ plan:
   statement: markdowns/ex8.md
 - title: Les fonctions
   statement: markdowns/function.md   
+- title: Exercice 9
+  statement: markdowns/ex9.md
+- title: Exercice 10
+  statement: markdowns/ex10.md
+- title: Exercice 11
+  statement: markdowns/ex11.md
+- title: Les fonctions avec paramètre(s)
+  statement: markdowns/function_param.md
+- title: Exercice 12
+  statement: markdowns/ex12.md
+- title: Exercice 13
+  statement: markdowns/ex13.md  
 projects:
   paper:
     root: /sample_paper
@@ -35,6 +47,11 @@ projects:
       version: latest
   function:
     root: /sample_function
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+  function_param:
+    root: /sample_function_param
     runner:
       name: techio/cmake-gcc-runner
       version: latest
