@@ -4,7 +4,7 @@
 
 int main()
 {
-    init_paper(5,5,10);
+    init_paper(5,5,25);
     move_down();
 	move_right();
 	colorize();

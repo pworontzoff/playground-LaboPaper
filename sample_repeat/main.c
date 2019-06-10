@@ -4,10 +4,11 @@
 
 int main()
 {
-    init_paper(10,10,10);
+    init_paper(10,10,25);
     move_right();
 	repeat(5) {
         colorize();
+        move_down();
         move_down();
     } loop;
 
@@ -15,4 +16,3 @@ int main()
 
     return 0;
 }
-

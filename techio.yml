@@ -1,7 +1,9 @@
 title: Demo Paper
 plan:
-- title: Demo
+- title: Paper
   statement: markdowns/welcome.md
+- title: Repeat
+  statement: markdowns/repeat.md
 projects:
   paper:
     root: /sample_paper
