@@ -4,7 +4,7 @@
 
 ![motif](img/ex4.JPG)
 
-Vous avez pu constater qu'une série de commande se répétaient systématiquement pour construire le motif de l'exercice 5. Vous venez de découvrir le `repeat`. Essayez de construire le même motif en utilisant le `repeat`.
+Vous avez pu constater qu'une série de commandes se répétaient systématiquement pour construire le motif de l'exercice 5. Vous venez de découvrir le `repeat`. Essayez de construire le même motif en utilisant le `repeat`.
 
 @[Exercice 5]({"stubs": ["main.c"],"command": "sh /project/target/run.sh", "project" : "exercices"})
 
