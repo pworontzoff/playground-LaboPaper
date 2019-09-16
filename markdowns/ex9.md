@@ -5,7 +5,7 @@ Pour se faire il faut (ATTENTION le paper fait toujours 5 de haut) :
 1. Construire une fonction permettant de colorier une colonne.
 2. Si on voulait faire le même motif pour un nombre de colonnes fixé par l’utilisateur, que feriez-vous ?
 
-Ecrivez le programme demandant à l’utilisateur de nombre de colonne du paper (on partira du principe qu’il s’agit toujours d’un nombre impair).
+Ecrivez le programme contenant dans une variable le nombre de colonne du paper (on partira du principe qu’il s’agit toujours d’un nombre impair).
 
 ![motif](img/ex8.JPG)
 
