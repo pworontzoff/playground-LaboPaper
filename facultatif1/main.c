@@ -2,6 +2,9 @@
 #include <stdlib.h>
 #include "paper.h"
 
+void draw_computer_ko();
+void draw_computer_ok();
+
 int main()
 {
     init_paper(36,76,10);
