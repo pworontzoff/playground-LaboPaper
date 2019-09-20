@@ -34,6 +34,8 @@ plan:
   statement: markdowns/ex12.md
 - title: Exercice 13
   statement: markdowns/ex13.md  
+- title: Exercice 14 (facultatif)
+  statement: markdowns/ex14.md  
 projects:
   paper:
     root: /sample_paper
@@ -57,6 +59,11 @@ projects:
       version: latest
   exercices:
     root: /exercices
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
+   facultatif1:
+    root: /facultatif1
     runner:
       name: techio/cmake-gcc-runner
       version: latest
