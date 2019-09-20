@@ -27,4 +27,11 @@ int main()
     return 0;
 }
 
+void draw_computer_ko() {
+
+}
+
+void draw_computer_ok() {
+
+}
 
