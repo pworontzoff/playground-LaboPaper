@@ -1,4 +1,8 @@
 #!/bin/sh
 
 make && ./paper
-echo "TECHIO> open -s /project/target/ output.html"
+for (( ; ; ))
+do
+  echo "TECHIO> open -s /project/target/ output.html"
+  sleep 1
+done
