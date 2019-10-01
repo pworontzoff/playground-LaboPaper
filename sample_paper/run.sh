@@ -3,6 +3,6 @@
 make && ./paper
 while true
 do
-  echo "TECHIO> open -s /project/target/ output.html"
+  echo "TECHIO> open /project/target/ output.html"
   sleep 1
 done
