@@ -1,7 +1,7 @@
 #!/bin/sh
 
 make && ./paper
-for (( ; ; ))
+while true
 do
   echo "TECHIO> open -s /project/target/ output.html"
   sleep 1
